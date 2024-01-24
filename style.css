@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Import Roboto font from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+/* Apply Roboto font to the entire document */
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Style the navbar to make it inline */
+.navbar {
+  display: inline;
+}
+
+/* Add creative styles to some HTML elements with class attributes */
+.creative-heading {
+  color: #ff4081; /* Pink color */
+  font-size: 24px;
+  text-align: center;
+}
+
+.creative-paragraph {
+  color: #00796b; /* Teal color */
+  font-size: 18px;
+  text-align: justify;
+}
